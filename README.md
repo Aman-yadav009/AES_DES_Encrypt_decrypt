@@ -1,0 +1,1 @@
+this is code used in backend of a project which required the file to be divided in 2 parts and encrypting one with AES and another with DES thus transffering the encrypted file parts via cloud based host services and decrypting the parts on recevier end and merging the file back into one.
